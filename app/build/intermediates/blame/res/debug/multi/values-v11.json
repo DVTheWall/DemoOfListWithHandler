@@ -1,0 +1,54 @@
+[
+    {
+        "outputFile": "/home/peacock/Downloads/DEMO/Marquee-Text-Android-Using-RecyclerView-like-Ticker-master/DemoOfListWithHandler/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 183
+                },
+                "from": {
+                    "file": "/home/peacock/Downloads/DEMO/Marquee-Text-Android-Using-RecyclerView-like-Ticker-master/DemoOfListWithHandler/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 312
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/peacock/AndroidStudioProjects/DemoOfListWithHandler/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 183
+                },
+                "from": {
+                    "file": "/home/peacock/AndroidStudioProjects/DemoOfListWithHandler/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 312
+                    }
+                }
+            }
+        ]
+    }
+]

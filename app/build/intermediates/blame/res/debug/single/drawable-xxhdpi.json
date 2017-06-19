@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/peacock/AndroidStudioProjects/DemoOfListWithHandler/app/build/intermediates/res/merged/debug/drawable-xxhdpi/icon.png",
+        "source": "/home/peacock/AndroidStudioProjects/DemoOfListWithHandler/app/src/main/res/drawable-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/home/peacock/AndroidStudioProjects/DemoOfListWithHandler/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/home/peacock/AndroidStudioProjects/DemoOfListWithHandler/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/peacock/AndroidStudioProjects/DemoOfListWithHandler/app/build/intermediates/res/merged/debug/drawable-xxhdpi/save.png",
+        "source": "/home/peacock/AndroidStudioProjects/DemoOfListWithHandler/app/src/main/res/drawable-xxhdpi/save.png"
+    },
+    {
+        "merged": "/home/peacock/AndroidStudioProjects/DemoOfListWithHandler/app/build/intermediates/res/merged/debug/drawable-xxhdpi/delete.png",
+        "source": "/home/peacock/AndroidStudioProjects/DemoOfListWithHandler/app/src/main/res/drawable-xxhdpi/delete.png"
+    },
+    {
+        "merged": "/home/peacock/Downloads/DEMO/Marquee-Text-Android-Using-RecyclerView-like-Ticker-master/DemoOfListWithHandler/app/build/intermediates/res/merged/debug/drawable-xxhdpi/delete.png",
+        "source": "/home/peacock/Downloads/DEMO/Marquee-Text-Android-Using-RecyclerView-like-Ticker-master/DemoOfListWithHandler/app/src/main/res/drawable-xxhdpi/delete.png"
+    },
+    {
+        "merged": "/home/peacock/Downloads/DEMO/Marquee-Text-Android-Using-RecyclerView-like-Ticker-master/DemoOfListWithHandler/app/build/intermediates/res/merged/debug/drawable-xxhdpi/tick.png",
+        "source": "/home/peacock/Downloads/DEMO/Marquee-Text-Android-Using-RecyclerView-like-Ticker-master/DemoOfListWithHandler/app/src/main/res/drawable-xxhdpi/tick.png"
+    },
+    {
+        "merged": "/home/peacock/AndroidStudioProjects/DemoOfListWithHandler/app/build/intermediates/res/merged/debug/drawable-xxhdpi/tick.png",
+        "source": "/home/peacock/AndroidStudioProjects/DemoOfListWithHandler/app/src/main/res/drawable-xxhdpi/tick.png"
+    },
+    {
+        "merged": "/home/peacock/Downloads/DEMO/Marquee-Text-Android-Using-RecyclerView-like-Ticker-master/DemoOfListWithHandler/app/build/intermediates/res/merged/debug/drawable-xxhdpi/save.png",
+        "source": "/home/peacock/Downloads/DEMO/Marquee-Text-Android-Using-RecyclerView-like-Ticker-master/DemoOfListWithHandler/app/src/main/res/drawable-xxhdpi/save.png"
+    },
+    {
+        "merged": "/home/peacock/Downloads/DEMO/Marquee-Text-Android-Using-RecyclerView-like-Ticker-master/DemoOfListWithHandler/app/build/intermediates/res/merged/debug/drawable-xxhdpi/icon.png",
+        "source": "/home/peacock/Downloads/DEMO/Marquee-Text-Android-Using-RecyclerView-like-Ticker-master/DemoOfListWithHandler/app/src/main/res/drawable-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/home/peacock/Downloads/DEMO/Marquee-Text-Android-Using-RecyclerView-like-Ticker-master/DemoOfListWithHandler/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/home/peacock/Downloads/DEMO/Marquee-Text-Android-Using-RecyclerView-like-Ticker-master/DemoOfListWithHandler/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    }
+]
